@@ -12,3 +12,11 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.tag-line {
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
