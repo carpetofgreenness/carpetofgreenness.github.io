@@ -13,10 +13,12 @@
 	font-size: inherit;
 }
 
-.tag-line {
-	text-align: center;
+.about-left {
+	text-align: left;
 	font-size: 2em;
-	color: white;
-	padding-top: 2em;
-	padding-bottom: 2em;
+}
+
+.about-right {
+	text-align: right;
+	font-size: 2em;
 }
