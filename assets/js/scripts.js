@@ -7,6 +7,7 @@ $(window).scroll(function () {
         var imageHeight = $(this).height();
         var topOfWindow = $(window).scrollTop();
         var bottomOfWindow = $(window).height() + topOfWindow;
+        //calculate how many pixels makes 20% of this window
         var twentyPercent = $(window).height() * .2;
 
         //check if the item is in the middle 60%
